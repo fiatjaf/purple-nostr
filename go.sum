@@ -1,0 +1,4 @@
+github.com/envsh/go-purple v0.0.0-20190426155153-13acb5d7aadf h1:VDbjVwtqmj9oy+CmOeiAZf1Yi0VnNdC8BgdXaTT/yso=
+github.com/envsh/go-purple v0.0.0-20190426155153-13acb5d7aadf/go.mod h1:LmLX6rjBZiESXWNpunRDOKK2/a+llz7/jujj8SUULlI=
+github.com/kitech/colog v0.0.0-20161107030729-3b8786759f1f h1:JNSplw//6Qb5lgHG6GwYU5GNdhfhVG6mj6Uki1VNb+4=
+github.com/kitech/colog v0.0.0-20161107030729-3b8786759f1f/go.mod h1:sBpICWQzQ5hd/pGpZmsaJ0NPdyQ/e6W7dBCt0eqGBeM=
